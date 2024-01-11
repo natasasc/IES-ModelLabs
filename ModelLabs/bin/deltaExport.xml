@@ -1,0 +1,99 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="12">
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="EQCONTAINER" />
+          <Properties />
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="EQCONTAINER" />
+          <Properties />
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="SWITCH" />
+          <Properties>
+            <Property id="EQUIPMENT_AGGR" value="1" />
+            <Property id="EQUIPMENT_NORMINSERV" value="1" />
+            <Property id="SWITCH_NORMOPEN" value="1" />
+            <Property id="SWITCH_RETAINED" value="0" />
+            <Property id="SWITCH_SWONCOUNT" value="10" />
+            <Property id="SWITCH_SWONDATE" value="637966194750000000" />
+            <Property id="EQUIPMENT_EQCONTAINER" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="SWITCH" />
+          <Properties>
+            <Property id="EQUIPMENT_AGGR" value="1" />
+            <Property id="EQUIPMENT_NORMINSERV" value="1" />
+            <Property id="SWITCH_NORMOPEN" value="1" />
+            <Property id="SWITCH_RETAINED" value="0" />
+            <Property id="SWITCH_SWONCOUNT" value="3" />
+            <Property id="SWITCH_SWONDATE" value="637966195260000000" />
+            <Property id="EQUIPMENT_EQCONTAINER" value="0x00000004fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffd" type="SWITCH" />
+          <Properties>
+            <Property id="EQUIPMENT_AGGR" value="1" />
+            <Property id="EQUIPMENT_NORMINSERV" value="1" />
+            <Property id="SWITCH_NORMOPEN" value="1" />
+            <Property id="SWITCH_RETAINED" value="0" />
+            <Property id="SWITCH_SWONCOUNT" value="3" />
+            <Property id="SWITCH_SWONDATE" value="637966195260000000" />
+            <Property id="EQUIPMENT_EQCONTAINER" value="0x00000004fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="CONNODE" />
+          <Properties>
+            <Property id="CONNODE_CONNODECONTAINER" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="CONNODE" />
+          <Properties>
+            <Property id="CONNODE_CONNODECONTAINER" value="0x00000004fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONNODE" value="0x00000003ffffffff" />
+            <Property id="TERMINAL_CONDEQ" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONNODE" value="0x00000003fffffffe" />
+            <Property id="TERMINAL_CONDEQ" value="0x00000005fffffffe" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002fffffffd" type="TERMINAL" />
+          <Properties>
+            <Property id="TERMINAL_CONNODE" value="0x00000003fffffffe" />
+            <Property id="TERMINAL_CONDEQ" value="0x00000005fffffffd" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="MEASUREMENT" />
+          <Properties>
+            <Property id="MEASUREMENT_TERMINAL" value="0x00000002ffffffff" />
+            <Property id="MEASUREMENT_PSR" value="0x00000005ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000001fffffffe" type="MEASUREMENT" />
+          <Properties>
+            <Property id="MEASUREMENT_TERMINAL" value="0x00000002fffffffe" />
+            <Property id="MEASUREMENT_PSR" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

@@ -1,0 +1,29 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Vezbe\11\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Vezbe\11\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.AssemblyReference.cache
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CopyComplete
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.AssemblyReference.cache
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CopyComplete
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb

@@ -1,0 +1,286 @@
+22.8.2022. 18.30.30 : Starting Network Model Serivice...
+22.8.2022. 18.30.31 : The WCF service GenericDataAccess is ready.
+22.8.2022. 18.30.32 : Endpoints:
+22.8.2022. 18.30.32 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 18.30.32 : Connection string: ../NetworkModelData.data
+22.8.2022. 18.30.32 : Trace level: Info
+22.8.2022. 18.30.32 : The Network Model Service is started.
+22.8.2022. 18.30.32 : Press <Enter> to stop the service.
+22.8.2022. 20.04.28 : Starting Network Model Serivice...
+22.8.2022. 20.04.30 : The WCF service GenericDataAccess is ready.
+22.8.2022. 20.04.30 : Endpoints:
+22.8.2022. 20.04.30 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 20.04.30 : Connection string: ../NetworkModelData.data
+22.8.2022. 20.04.30 : Trace level: Info
+22.8.2022. 20.04.30 : The Network Model Service is started.
+22.8.2022. 20.04.30 : Press <Enter> to stop the service.
+22.8.2022. 20.04.34 : Applying  delta to network model.
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000400000001).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000400000002).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000500000001).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000500000002).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000300000001).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000300000002).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000200000001).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000200000002).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000100000001).
+22.8.2022. 20.04.34 : Inserting entity with GID (0000000100000002).
+22.8.2022. 20.04.34 : Applying delta to network model successfully finished.
+22.8.2022. 20.07.42 : Failed to get related values for source GID = 0x0000000000000000. Entity  (GID = 0x0000000000000000) does not exist..
+22.8.2022. 20.07.42 : Getting related values for resource with ID = 0x0000000000000000 failed. Failed to get related values for source GID = 0x0000000000000000. Entity  (GID = 0x0000000000000000) does not exist..
+22.8.2022. 20.33.52 : Starting Network Model Serivice...
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000400000001).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000400000002).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000500000001).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000500000002).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000300000001).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000300000002).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000200000001).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000200000002).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000100000001).
+22.8.2022. 20.33.53 : Inserting entity with GID (0000000100000002).
+22.8.2022. 20.33.53 : The WCF service GenericDataAccess is ready.
+22.8.2022. 20.33.53 : Endpoints:
+22.8.2022. 20.33.53 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 20.33.53 : Connection string: ../NetworkModelData.data
+22.8.2022. 20.33.53 : Trace level: Info
+22.8.2022. 20.33.53 : The Network Model Service is started.
+22.8.2022. 20.33.53 : Press <Enter> to stop the service.
+22.8.2022. 20.38.19 : Starting Network Model Serivice...
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000400000001).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000400000002).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000500000001).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000500000002).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000300000001).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000300000002).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000200000001).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000200000002).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000100000001).
+22.8.2022. 20.38.19 : Inserting entity with GID (0000000100000002).
+22.8.2022. 20.38.20 : The WCF service GenericDataAccess is ready.
+22.8.2022. 20.38.20 : Endpoints:
+22.8.2022. 20.38.20 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 20.38.20 : Connection string: ../NetworkModelData.data
+22.8.2022. 20.38.20 : Trace level: Info
+22.8.2022. 20.38.20 : The Network Model Service is started.
+22.8.2022. 20.38.20 : Press <Enter> to stop the service.
+22.8.2022. 20.42.14 : Starting Network Model Serivice...
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000400000001).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000400000002).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000500000001).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000500000002).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000300000001).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000300000002).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000200000001).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000200000002).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000100000001).
+22.8.2022. 20.42.14 : Inserting entity with GID (0000000100000002).
+22.8.2022. 20.42.14 : The WCF service GenericDataAccess is ready.
+22.8.2022. 20.42.14 : Endpoints:
+22.8.2022. 20.42.14 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 20.42.14 : Connection string: ../NetworkModelData.data
+22.8.2022. 20.42.14 : Trace level: Info
+22.8.2022. 20.42.14 : The Network Model Service is started.
+22.8.2022. 20.42.14 : Press <Enter> to stop the service.
+22.8.2022. 20.54.46 : Starting Network Model Serivice...
+22.8.2022. 20.54.46 : Inserting entity with GID (0000000400000001).
+22.8.2022. 20.54.46 : Inserting entity with GID (0000000400000002).
+22.8.2022. 20.54.46 : Inserting entity with GID (0000000500000001).
+22.8.2022. 20.54.46 : Inserting entity with GID (0000000500000002).
+22.8.2022. 20.54.46 : Inserting entity with GID (0000000300000001).
+22.8.2022. 20.54.46 : Inserting entity with GID (0000000300000002).
+22.8.2022. 20.54.46 : Inserting entity with GID (0000000200000001).
+22.8.2022. 20.54.47 : Inserting entity with GID (0000000200000002).
+22.8.2022. 20.54.47 : Inserting entity with GID (0000000100000001).
+22.8.2022. 20.54.47 : Inserting entity with GID (0000000100000002).
+22.8.2022. 20.54.47 : The WCF service GenericDataAccess is ready.
+22.8.2022. 20.54.47 : Endpoints:
+22.8.2022. 20.54.47 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 20.54.47 : Connection string: ../NetworkModelData.data
+22.8.2022. 20.54.47 : Trace level: Info
+22.8.2022. 20.54.47 : The Network Model Service is started.
+22.8.2022. 20.54.47 : Press <Enter> to stop the service.
+22.8.2022. 20.57.37 : Starting Network Model Serivice...
+22.8.2022. 20.57.37 : Inserting entity with GID (0000000400000001).
+22.8.2022. 20.57.37 : Inserting entity with GID (0000000400000002).
+22.8.2022. 20.57.37 : Inserting entity with GID (0000000500000001).
+22.8.2022. 20.57.38 : Inserting entity with GID (0000000500000002).
+22.8.2022. 20.57.38 : Inserting entity with GID (0000000300000001).
+22.8.2022. 20.57.38 : Inserting entity with GID (0000000300000002).
+22.8.2022. 20.57.38 : Inserting entity with GID (0000000200000001).
+22.8.2022. 20.57.38 : Inserting entity with GID (0000000200000002).
+22.8.2022. 20.57.38 : Inserting entity with GID (0000000100000001).
+22.8.2022. 20.57.38 : Inserting entity with GID (0000000100000002).
+22.8.2022. 20.57.39 : The WCF service GenericDataAccess is ready.
+22.8.2022. 20.57.39 : Endpoints:
+22.8.2022. 20.57.39 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 20.57.40 : Connection string: ../NetworkModelData.data
+22.8.2022. 20.57.40 : Trace level: Info
+22.8.2022. 20.57.40 : The Network Model Service is started.
+22.8.2022. 20.57.40 : Press <Enter> to stop the service.
+22.8.2022. 21.09.55 : Starting Network Model Serivice...
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000400000001).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000400000002).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000500000001).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000500000002).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000300000001).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000300000002).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000200000001).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000200000002).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000100000001).
+22.8.2022. 21.09.55 : Inserting entity with GID (0000000100000002).
+22.8.2022. 21.09.55 : The WCF service GenericDataAccess is ready.
+22.8.2022. 21.09.55 : Endpoints:
+22.8.2022. 21.09.55 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 21.09.55 : Connection string: ../NetworkModelData.data
+22.8.2022. 21.09.55 : Trace level: Info
+22.8.2022. 21.09.55 : The Network Model Service is started.
+22.8.2022. 21.09.55 : Press <Enter> to stop the service.
+22.8.2022. 21.12.12 : Starting Network Model Serivice...
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000400000001).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000400000002).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000500000001).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000500000002).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000300000001).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000300000002).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000200000001).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000200000002).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000100000001).
+22.8.2022. 21.12.12 : Inserting entity with GID (0000000100000002).
+22.8.2022. 21.12.12 : The WCF service GenericDataAccess is ready.
+22.8.2022. 21.12.12 : Endpoints:
+22.8.2022. 21.12.12 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 21.12.12 : Connection string: ../NetworkModelData.data
+22.8.2022. 21.12.12 : Trace level: Info
+22.8.2022. 21.12.12 : The Network Model Service is started.
+22.8.2022. 21.12.12 : Press <Enter> to stop the service.
+22.8.2022. 21.41.31 : Starting Network Model Serivice...
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000400000001).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000400000002).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000500000001).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000500000002).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000300000001).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000300000002).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000200000001).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000200000002).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000100000001).
+22.8.2022. 21.41.31 : Inserting entity with GID (0000000100000002).
+22.8.2022. 21.41.32 : The WCF service GenericDataAccess is ready.
+22.8.2022. 21.41.32 : Endpoints:
+22.8.2022. 21.41.32 : net.tcp://localhost:10000/NetworkModelService/GDA/
+22.8.2022. 21.41.32 : Connection string: ../NetworkModelData.data
+22.8.2022. 21.41.32 : Trace level: Info
+22.8.2022. 21.41.32 : The Network Model Service is started.
+22.8.2022. 21.41.32 : Press <Enter> to stop the service.
+1.9.2022. 14.58.51 : Starting Network Model Serivice...
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000400000001).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000400000002).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000500000001).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000500000002).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000300000001).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000300000002).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000200000001).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000200000002).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000100000001).
+1.9.2022. 14.58.52 : Inserting entity with GID (0000000100000002).
+1.9.2022. 14.58.53 : The WCF service GenericDataAccess is ready.
+1.9.2022. 14.58.53 : Endpoints:
+1.9.2022. 14.58.53 : net.tcp://localhost:10000/NetworkModelService/GDA/
+1.9.2022. 14.58.53 : Connection string: ../NetworkModelData.data
+1.9.2022. 14.58.53 : Trace level: Info
+1.9.2022. 14.58.53 : The Network Model Service is started.
+1.9.2022. 14.58.53 : Press <Enter> to stop the service.
+1.9.2022. 15.04.26 : Starting Network Model Serivice...
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000400000001).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000400000002).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000500000001).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000500000002).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000300000001).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000300000002).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000200000001).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000200000002).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000100000001).
+1.9.2022. 15.04.26 : Inserting entity with GID (0000000100000002).
+1.9.2022. 15.04.27 : The WCF service GenericDataAccess is ready.
+1.9.2022. 15.04.27 : Endpoints:
+1.9.2022. 15.04.27 : net.tcp://localhost:10000/NetworkModelService/GDA/
+1.9.2022. 15.04.27 : Connection string: ../NetworkModelData.data
+1.9.2022. 15.04.27 : Trace level: Info
+1.9.2022. 15.04.27 : The Network Model Service is started.
+1.9.2022. 15.04.27 : Press <Enter> to stop the service.
+1.9.2022. 18.24.21 : Starting Network Model Serivice...
+1.9.2022. 18.24.22 : Inserting entity with GID (0000000400000001).
+1.9.2022. 18.24.22 : Inserting entity with GID (0000000400000002).
+1.9.2022. 18.24.23 : Inserting entity with GID (0000000500000001).
+1.9.2022. 18.24.23 : Inserting entity with GID (0000000500000002).
+1.9.2022. 18.24.23 : Inserting entity with GID (0000000300000001).
+1.9.2022. 18.24.23 : Inserting entity with GID (0000000300000002).
+1.9.2022. 18.24.23 : Inserting entity with GID (0000000200000001).
+1.9.2022. 18.24.23 : Inserting entity with GID (0000000200000002).
+1.9.2022. 18.24.23 : Inserting entity with GID (0000000100000001).
+1.9.2022. 18.24.23 : Inserting entity with GID (0000000100000002).
+1.9.2022. 18.24.24 : The WCF service GenericDataAccess is ready.
+1.9.2022. 18.24.24 : Endpoints:
+1.9.2022. 18.24.24 : net.tcp://localhost:10000/NetworkModelService/GDA/
+1.9.2022. 18.24.24 : Connection string: ../NetworkModelData.data
+1.9.2022. 18.24.24 : Trace level: Info
+1.9.2022. 18.24.24 : The Network Model Service is started.
+1.9.2022. 18.24.24 : Press <Enter> to stop the service.
+1.9.2022. 18.25.04 : Applying  delta to network model.
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000400000003).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000400000004).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000500000003).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000500000004).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000500000005).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000300000003).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000300000004).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000200000003).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000200000004).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000200000005).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000100000003).
+1.9.2022. 18.25.04 : Inserting entity with GID (0000000100000004).
+1.9.2022. 18.25.04 : Applying delta to network model successfully finished.
+7.12.2022. 21:01:06 : Starting Network Model Serivice...
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000400000001).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000400000002).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000500000001).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000500000002).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000300000001).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000300000002).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000200000001).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000200000002).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000100000001).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000100000002).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000400000003).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000400000004).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000500000003).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000500000004).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000500000005).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000300000003).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000300000004).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000200000003).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000200000004).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000200000005).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000100000003).
+7.12.2022. 21:01:06 : Inserting entity with GID (0000000100000004).
+7.12.2022. 21:01:07 : The WCF service GenericDataAccess is ready.
+7.12.2022. 21:01:07 : Endpoints:
+7.12.2022. 21:01:07 : net.tcp://localhost:10000/NetworkModelService/GDA/
+7.12.2022. 21:01:07 : Connection string: ../NetworkModelData.data
+7.12.2022. 21:01:07 : Trace level: Info
+7.12.2022. 21:01:07 : The Network Model Service is started.
+7.12.2022. 21:01:07 : Press <Enter> to stop the service.
+7.12.2022. 21:01:50 : Applying  delta to network model.
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000400000005).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000400000006).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000500000006).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000500000007).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000500000008).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000300000005).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000300000006).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000200000006).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000200000007).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000200000008).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000100000005).
+7.12.2022. 21:01:50 : Inserting entity with GID (0000000100000006).
+7.12.2022. 21:01:50 : Applying delta to network model successfully finished.

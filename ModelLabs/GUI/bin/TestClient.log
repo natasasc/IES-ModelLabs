@@ -1,0 +1,132 @@
+22.8.2022. 20.57.50 : Getting extent values for all DMS types started.
+22.8.2022. 20.59.05 : Number of MEASUREMENT in model 2.
+22.8.2022. 20.59.15 : Number of TERMINAL in model 4.
+22.8.2022. 20.59.15 : Number of CONNODE in model 6.
+22.8.2022. 20.59.15 : Number of EQCONTAINER in model 8.
+22.8.2022. 20.59.15 : Number of SWITCH in model 10.
+22.8.2022. 20.59.15 : Failed to get model type code for DMS type: MASK_TYPE. Invalid DMS type
+22.8.2022. 20.59.15 : Getting extent values for all DMS types failed for type MASK_TYPE.
+	Failed to get model type code for DMS type: MASK_TYPE. Invalid DMS type
+22.8.2022. 20.59.42 : Getting extent values for all DMS types started.
+22.8.2022. 21.01.08 : Number of MEASUREMENT in model 2.
+22.8.2022. 21.02.47 : Number of TERMINAL in model 4.
+22.8.2022. 21.03.30 : Number of CONNODE in model 6.
+22.8.2022. 21.04.26 : Number of EQCONTAINER in model 8.
+22.8.2022. 21.05.04 : Number of SWITCH in model 10.
+22.8.2022. 21.05.09 : Failed to get model type code for DMS type: MASK_TYPE. Invalid DMS type
+22.8.2022. 21.10.08 : Getting extent values for all DMS types started.
+22.8.2022. 21.10.10 : Number of MEASUREMENT in model 2.
+22.8.2022. 21.10.10 : Number of TERMINAL in model 4.
+22.8.2022. 21.10.10 : Number of CONNODE in model 6.
+22.8.2022. 21.10.10 : Number of EQCONTAINER in model 8.
+22.8.2022. 21.10.10 : Number of SWITCH in model 10.
+22.8.2022. 21.10.52 : Failed to get model type code for DMS type: MASK_TYPE. Invalid DMS type
+22.8.2022. 21.12.27 : Getting extent values for all DMS types started.
+22.8.2022. 21.12.28 : Number of MEASUREMENT in model 2.
+22.8.2022. 21.12.28 : Number of TERMINAL in model 4.
+22.8.2022. 21.12.28 : Number of CONNODE in model 6.
+22.8.2022. 21.12.28 : Number of EQCONTAINER in model 8.
+22.8.2022. 21.12.29 : Number of SWITCH in model 10.
+22.8.2022. 21.12.41 : Getting extent values for all DMS types successfully ended.
+22.8.2022. 21.13.30 : Getting values method started.
+22.8.2022. 21.13.30 : Getting values method successfully finished.
+22.8.2022. 21.13.48 : Getting values method started.
+22.8.2022. 21.13.48 : Getting values method successfully finished.
+22.8.2022. 21.13.58 : Getting values method started.
+22.8.2022. 21.13.58 : Getting values method successfully finished.
+22.8.2022. 21.14.06 : Getting values method started.
+22.8.2022. 21.14.06 : Getting values method successfully finished.
+22.8.2022. 21.14.21 : Getting values method started.
+22.8.2022. 21.14.21 : Getting values method successfully finished.
+22.8.2022. 21.14.32 : Getting values method started.
+22.8.2022. 21.14.32 : Getting values method successfully finished.
+22.8.2022. 21.14.45 : Getting values method started.
+22.8.2022. 21.14.45 : Getting values method successfully finished.
+22.8.2022. 21.15.10 : Getting extent values method started.
+22.8.2022. 21.15.10 : Getting extent values method successfully finished.
+22.8.2022. 21.15.15 : Getting extent values method started.
+22.8.2022. 21.15.15 : Getting extent values method successfully finished.
+22.8.2022. 21.15.51 : Getting related values method started.
+22.8.2022. 21.15.51 : Getting related values method successfully finished.
+22.8.2022. 21.15.55 : Getting related values method started.
+22.8.2022. 21.15.55 : Getting related values method successfully finished.
+22.8.2022. 21.16.03 : Getting related values method started.
+22.8.2022. 21.16.03 : Getting related values method successfully finished.
+22.8.2022. 21.18.18 : Getting related values method started.
+22.8.2022. 21.18.18 : Getting related values method successfully finished.
+22.8.2022. 21.42.59 : Getting extent values for all DMS types started.
+22.8.2022. 21.43.00 : Number of MEASUREMENT in model 2.
+22.8.2022. 21.43.00 : Number of TERMINAL in model 4.
+22.8.2022. 21.43.00 : Number of CONNODE in model 6.
+22.8.2022. 21.43.01 : Number of EQCONTAINER in model 8.
+22.8.2022. 21.43.01 : Number of SWITCH in model 10.
+22.8.2022. 21.43.01 : Getting extent values for all DMS types successfully ended.
+1.9.2022. 14.59.10 : Getting extent values for all DMS types started.
+1.9.2022. 14.59.11 : Number of MEASUREMENT in model 2.
+1.9.2022. 14.59.11 : Number of TERMINAL in model 4.
+1.9.2022. 14.59.11 : Number of CONNODE in model 6.
+1.9.2022. 14.59.11 : Number of EQCONTAINER in model 8.
+1.9.2022. 14.59.11 : Number of SWITCH in model 10.
+1.9.2022. 14.59.11 : Getting extent values for all DMS types successfully ended.
+1.9.2022. 15.01.43 : Getting related values method started.
+1.9.2022. 15.01.43 : Getting related values method successfully finished.
+1.9.2022. 15.01.49 : Getting related values method started.
+1.9.2022. 15.01.49 : Getting related values method successfully finished.
+1.9.2022. 15.02.11 : Getting related values method started.
+1.9.2022. 15.02.11 : Getting related values method successfully finished.
+1.9.2022. 15.02.19 : Getting related values method started.
+1.9.2022. 15.02.19 : Getting related values method successfully finished.
+1.9.2022. 15.03.45 : Getting extent values for all DMS types started.
+1.9.2022. 15.03.50 : Getting extent values for all DMS types failed for type MEASUREMENT.
+	Could not connect to net.tcp://localhost:10000/NetworkModelService/GDA/. The connection attempt lasted for a time span of 00:00:04.0729865. TCP error code 10061: No connection could be made because the target machine actively refused it 127.0.0.1:10000. 
+1.9.2022. 15.04.35 : Getting extent values for all DMS types started.
+1.9.2022. 15.04.36 : Number of MEASUREMENT in model 2.
+1.9.2022. 15.04.36 : Number of TERMINAL in model 4.
+1.9.2022. 15.04.36 : Number of CONNODE in model 6.
+1.9.2022. 15.04.36 : Number of EQCONTAINER in model 8.
+1.9.2022. 15.04.36 : Number of SWITCH in model 10.
+1.9.2022. 15.04.36 : Getting extent values for all DMS types successfully ended.
+1.9.2022. 15.04.56 : Getting related values method started.
+1.9.2022. 15.04.56 : Getting related values method successfully finished.
+1.9.2022. 15.05.02 : Getting related values method started.
+1.9.2022. 15.05.02 : Getting related values method successfully finished.
+1.9.2022. 15.05.10 : Getting related values method started.
+1.9.2022. 15.05.10 : Getting related values method successfully finished.
+1.9.2022. 15.05.18 : Getting related values method started.
+1.9.2022. 15.05.18 : Getting related values method successfully finished.
+1.9.2022. 15.05.56 : Getting related values method started.
+1.9.2022. 15.05.56 : Getting related values method successfully finished.
+1.9.2022. 15.06.03 : Getting related values method started.
+1.9.2022. 15.06.03 : Getting related values method successfully finished.
+1.9.2022. 15.06.19 : Getting related values method started.
+1.9.2022. 15.06.19 : Getting related values method successfully finished.
+1.9.2022. 15.06.41 : Getting related values method started.
+1.9.2022. 15.06.41 : Getting related values method successfully finished.
+1.9.2022. 15.06.47 : Getting related values method started.
+1.9.2022. 15.06.47 : Getting related values method successfully finished.
+1.9.2022. 15.06.52 : Getting related values method started.
+1.9.2022. 15.06.53 : Getting related values method successfully finished.
+1.9.2022. 18.25.34 : Getting extent values for all DMS types started.
+1.9.2022. 18.25.34 : Number of MEASUREMENT in model 4.
+1.9.2022. 18.25.34 : Number of TERMINAL in model 9.
+1.9.2022. 18.25.35 : Number of CONNODE in model 13.
+1.9.2022. 18.25.35 : Number of EQCONTAINER in model 17.
+1.9.2022. 18.25.35 : Number of SWITCH in model 22.
+1.9.2022. 18.25.35 : Getting extent values for all DMS types successfully ended.
+1.9.2022. 18.26.21 : Getting extent values method started.
+1.9.2022. 18.26.21 : Getting extent values method successfully finished.
+1.9.2022. 18.26.56 : Getting related values method started.
+1.9.2022. 18.26.56 : Getting related values method successfully finished.
+7.12.2022. 21:02:11 : Getting extent values for all DMS types started.
+7.12.2022. 21:02:12 : Number of MEASUREMENT in model 6.
+7.12.2022. 21:02:12 : Number of TERMINAL in model 14.
+7.12.2022. 21:02:12 : Number of CONNODE in model 20.
+7.12.2022. 21:02:12 : Number of EQCONTAINER in model 26.
+7.12.2022. 21:02:12 : Number of SWITCH in model 34.
+7.12.2022. 21:02:12 : Getting extent values for all DMS types successfully ended.
+7.12.2022. 21:02:22 : Getting values method started.
+7.12.2022. 21:02:22 : Getting values method successfully finished.
+7.12.2022. 21:03:03 : Getting values method started.
+7.12.2022. 21:03:03 : Getting values method successfully finished.
+7.12.2022. 21:03:25 : Getting related values method started.
+7.12.2022. 21:03:25 : Getting related values method successfully finished.

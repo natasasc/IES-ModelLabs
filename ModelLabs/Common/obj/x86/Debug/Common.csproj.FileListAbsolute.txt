@@ -1,0 +1,12 @@
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\AS\Desktop\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.AssemblyReference.cache
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
+D:\Fakultet\VII semestar\IES\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
